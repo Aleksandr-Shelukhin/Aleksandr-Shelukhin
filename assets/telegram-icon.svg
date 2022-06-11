@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="24" viewBox="0 0 94 24">
+  <g id="telegram-icon" transform="translate(-1048 7767)">
+    <rect id="telegram-icon-2" data-name="telegram-icon" width="94" height="24" rx="12" transform="translate(1048 -7767)" fill="#279fda"/>
+    <text id="Telegram" transform="translate(1077 -7751)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Telegram</tspan></text>
+    <path id="Icon_awesome-telegram-plane" data-name="Icon awesome-telegram-plane" d="M13.945,5.6l-2.11,9.951c-.159.7-.574.877-1.164.546L7.455,13.724,5.9,15.216a.807.807,0,0,1-.646.315l.231-3.274,5.959-5.385c.259-.231-.056-.359-.4-.128L3.678,11.383.506,10.39c-.69-.215-.7-.69.144-1.021l12.4-4.779C13.629,4.375,14.132,4.719,13.945,5.6Z" transform="translate(1056.756 -7765.392)" fill="#fff"/>
+  </g>
+</svg>

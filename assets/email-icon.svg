@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="24" viewBox="0 0 82 24">
+  <g id="email-icon" transform="translate(-1175 7767)">
+    <rect id="Прямоугольник_16" data-name="Прямоугольник 16" width="82" height="24" rx="12" transform="translate(1175 -7767)" fill="#95afbc"/>
+    <text id="E-mail" transform="translate(1206 -7751)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">E-mail</tspan></text>
+    <g id="Icon_ionic-ios-mail" data-name="Icon ionic-ios-mail" transform="translate(1180.077 -7767.981)">
+      <path id="Контур_11" data-name="Контур 11" d="M19.091,10.337l-4.1,4.175a.074.074,0,0,0,0,.107l2.868,3.055a.494.494,0,0,1,0,.7.5.5,0,0,1-.7,0L14.3,15.331a.078.078,0,0,0-.11,0l-.7.708a3.067,3.067,0,0,1-2.186.922,3.128,3.128,0,0,1-2.232-.948l-.67-.682a.078.078,0,0,0-.11,0L5.439,18.374a.5.5,0,0,1-.7,0,.494.494,0,0,1,0-.7l2.868-3.055a.081.081,0,0,0,0-.107L3.5,10.337a.075.075,0,0,0-.13.053v8.353a1.222,1.222,0,0,0,1.219,1.219H18a1.222,1.222,0,0,0,1.219-1.219V10.391A.076.076,0,0,0,19.091,10.337Z" transform="translate(0 -1.118)" fill="#fff"/>
+      <path id="Контур_12" data-name="Контур 12" d="M11.687,14.849a2.071,2.071,0,0,0,1.489-.625l5.976-6.083a1.2,1.2,0,0,0-.754-.267H4.98a1.189,1.189,0,0,0-.754.267L10.2,14.224A2.071,2.071,0,0,0,11.687,14.849Z" transform="translate(-0.39)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
