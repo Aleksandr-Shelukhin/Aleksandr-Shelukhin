@@ -144,7 +144,7 @@
 ##### Подробнее о проекте: https://github.com/Aleksandr-Shelukhin/russian-travel
   &nbsp;
 
-### ✔️ &nbsp; **Найчиться учиться** 
+### ✔️ &nbsp; **Научиться учиться** 
 ![Найчиться учиться](./assets/how-to_main.jpg)
 
 ##### Технологии: 
