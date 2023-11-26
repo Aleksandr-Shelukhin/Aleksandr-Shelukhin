@@ -5,7 +5,7 @@
 [![landing-easy.ru](https://landing-easy.ru/images/web_site_icon.svg)](https://landing-easy.ru/)&nbsp;
 [![hh.ru/resume/eb181c0fff0af013350039ed1f6f7675466743](https://landing-easy.ru/images/head_hunter_icon.svg)](https://hh.ru/resume/eb181c0fff0af013350039ed1f6f7675466743)&nbsp;
 [![career.habr.com/maddezver1](https://landing-easy.ru/images/carer-habr_icon.svg)](https://career.habr.com/maddezver1)&nbsp;
-[![landing-easy.ru/documents/aleksandr_shelukhin.pdf](https://landing-easy.ru/images/my-cv-icon.svg)](https://landing-easy.ru/documents/Aleksandr_Shelukhin.pdf)
+[![landing-easy.ru/documents/aleksandr_shelukhin.pdf](https://static.tildacdn.info/tild3432-3462-4531-a536-633830353236/my-cv-icon.svg)](https://landing-easy.ru/documents/Aleksandr_Shelukhin.pdf)
 
 
 
